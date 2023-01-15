@@ -1,3 +1,5 @@
+import { data } from '../data/users';
+
 export const App = () => {
   return (
     <div
