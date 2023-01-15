@@ -1,0 +1,16 @@
+.baseSection {
+    width: 1600px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.superSection {
+    composes: baseSection;
+    background-color: aquamarine;
+}
+
+.titleStyle {
+    font-size: larger;
+    font-weight: 700;
+    color: brown;
+}
